@@ -107,3 +107,5 @@ Todo Create, delete 기능
 Todo Edit, Done 기능
 
 Filter 기능(All/ Todo/ Done)
+
+localStorage 에 Todo data 연동
